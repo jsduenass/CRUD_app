@@ -1,0 +1,10 @@
+    --------------------------------
+    WELCOME TO THIS APPLICATION
+    
+    WHAT WOULD YOU LIKE TO DO?
+
+        [C]reate client
+        [D]elete client
+        [L]ist clients
+        [Q]uit
+        
