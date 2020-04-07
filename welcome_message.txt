@@ -6,5 +6,7 @@
         [C]reate client
         [D]elete client
         [L]ist clients
+        [U]pdate
+        [S]ave
         [Q]uit
         
