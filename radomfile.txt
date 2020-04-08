@@ -1,0 +1,7 @@
+here there are 10 random numbers
+5
+3
+4
+87
+4
+7
